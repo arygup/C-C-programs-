@@ -1,0 +1,1 @@
+{"name":"Local: q3","url":"/Users/arygup/Desktop/endsem/q3.c","tests":[{"id":1645869636299,"input":"5\n10 1 10 3 4\n4\n1 10\n2 9\n3 4\n2 2","output":"5 2 2 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arygup/Desktop/endsem/q3.c","group":"local","local":true}

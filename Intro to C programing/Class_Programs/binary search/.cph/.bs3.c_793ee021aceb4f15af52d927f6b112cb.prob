@@ -1,0 +1,1 @@
+{"name":"Local: bs3","url":"/Users/arygup/Desktop/binary search/bs3.c","tests":[{"id":1646158596108,"input":"7\n1 1\n1 5\n4 3\n8 8\n8 17\n5 3\n1 1   ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arygup/Desktop/binary search/bs3.c","group":"local","local":true}
